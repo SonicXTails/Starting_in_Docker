@@ -1,0 +1,2 @@
+docker build -t 2-calc-python .
+run -it --rm --name my-calc-py 2-calc-python
