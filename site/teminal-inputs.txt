@@ -1,0 +1,2 @@
+docker build -t web-build .
+run -d -p 8080:80 --name site-first web-build
