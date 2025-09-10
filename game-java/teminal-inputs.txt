@@ -1,0 +1,2 @@
+docker build -t 4-game-java .
+docker run -it --rm --name my-game 4-game-java 
