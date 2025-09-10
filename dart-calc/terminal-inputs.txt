@@ -1,0 +1,2 @@
+docker build -t 3-calc-dart . 
+run -it --rm --name my-calc-py 3-calc-dart
