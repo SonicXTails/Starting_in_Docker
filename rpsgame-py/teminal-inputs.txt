@@ -1,0 +1,2 @@
+docker build -t 5-game-python .
+docker run -it --rm --name my-game 5-game-python
